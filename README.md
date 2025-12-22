@@ -2,7 +2,7 @@
   <img src="https://www.xavor.com/wp-content/uploads/2024/11/cross-flutter-app-development.jpg" alt="Flutter Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Rahmat Heidari</h1>
 
 <h3 align="center">Android App Developer with Flutter | Computer Engineering Student</h3>
 
@@ -12,7 +12,7 @@
 - 🔭 Currently working on Android projects with **Flutter**  
 - 🌱 Learning advanced **Flutter** and backend with **Python**  
 - 👯 Open to collaborating on mobile and open-source projects  
-- 📫 Reach me: [your.email@example.com or LinkedIn link]  
+- 📫 Reach me: [https://t.me/rahmatheidari]  
 - ⚡ Fun fact: Love coding, gaming, and exploring new tech  
 
 ### Skills & Technologies
