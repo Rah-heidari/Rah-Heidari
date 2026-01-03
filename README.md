@@ -2,7 +2,7 @@
   <img src="https://www.xavor.com/wp-content/uploads/2024/11/cross-flutter-app-development.jpg" alt="Flutter Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rahmat Heidari</h1>
+<h1 align="center">I'm Rahmat Heidari</h1>
 
 <h3 align="center">Android App Developer with Flutter | Computer Engineering Student</h3>
 
