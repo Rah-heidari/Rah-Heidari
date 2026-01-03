@@ -10,7 +10,7 @@
 
 ### About Me
 - 🔭 Currently working on Android projects with **Flutter**  
-- 🌱 Learning advanced **Flutter** and backend with **Python**  
+- 🌱 Learning advanced **Flutter**
 - 👯 Open to collaborating on mobile and open-source projects  
 - 📫 Reach me: [https://t.me/rahmatheidari]  
 - ⚡ Fun fact: Love coding, gaming, and exploring new tech  
